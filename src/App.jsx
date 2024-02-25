@@ -1,5 +1,5 @@
 import "./App.css";
-
+import "./assets"
 function App() {
   return (
     <div>
